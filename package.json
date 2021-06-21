@@ -1,0 +1,20 @@
+{
+  "name": "cy-tests",
+  "version": "1.0.0",
+  "description": "Projeto para entedimento do Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cypress",
+    "automacao",
+    "qa",
+    "end-2-end"
+  ],
+  "author": "Ana Paula",
+  "license": "MIT",
+  "dependencies": {
+    "cypress": "^7.5.0"
+  }
+}
